@@ -6,14 +6,13 @@
 
 <img align="right" src="https://github.com/anubhavv1998/Yashika1305/blob/main/IMG.gif" height="350" width="500">
 
-[![](https://img.shields.io/badge/LinkedIn-Yashika-blue)](https://www.linkedin.com/in/anubhav-singh-1a9090141/)
-[![](https://img.shields.io/badge/Twitter-Yashika-skyblue)](https://twitter.com/Anubhav02017/)
-[![](https://img.shields.io/badge/HackerRank-Yashika-brightgreen)](https://www.hackerrank.com/anubhavv1998/)
-[![](https://img.shields.io/badge/Portfolio-Yashika-orange)](https://anubhavv1998.github.io/anubhav/)
-[![](https://img.shields.io/badge/GeeksForGeeks-Yashika-brightgreen)](https://auth.geeksforgeeks.org/user/4nu6h4v51ngh/)
-[![](https://img.shields.io/badge/YouTube-Yashika-darkred)](https://www.youtube.com/channel/UCkyPJOfBGt0z9kdzFe1RZoA)
+[![](https://img.shields.io/badge/LinkedIn-Yashika-blue)](https://www.linkedin.com/in/yashika-sharma-219436178/)
+[![](https://img.shields.io/badge/Twitter-Yashika-skyblue)](https://twitter.com/Yashika81129438/)
+[![](https://img.shields.io/badge/HackerRank-Yashika-brightgreen)](https://www.hackerrank.com/yashika_sharma01/)
+[![](https://img.shields.io/badge/Facebook-Yashika-blue)](https://m.facebook.com/yashika.sharma.338/)
+[![](https://img.shields.io/badge/GeeksForGeeks-Yashika-brightgreen)](https://auth.geeksforgeeks.org/user/yashikasharma0708/profile/)
+[![](https://img.shields.io/badge/YouTube-Yashika-darkred)](https://www.youtube.com/channel/UC1vAQ-0etm2TyDIUcOGGJYw/)
 [![](https://img.shields.io/badge/Gmail-yashika.sharma0708@gmail.com-red)](mailto:yashika.sharma0708@gmail.com)
-[![](https://img.shields.io/badge/Discord-Yashika-blue)](https://discord.com/channels/692993599192956928/692993599192956931)
 
 <br>
 
